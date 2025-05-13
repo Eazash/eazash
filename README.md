@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋. I'm Ezra Ashenafi</h1>
 
-<center>Just a friendly human ✨ with a passion for web development, exploring new tech and problem-solving. I’m currently working on Vue & Nuxt, and DevOps. Always eager to learn and collaborate on interesting projects. Let's connect!</center>
+<center>Just a friendly human ✨ with a passion for web development, exploring new tech and problem-solving. I’m currently working with Vue & Nuxt, Vike and DevOps. Always eager to learn and collaborate on interesting projects. Let's connect!</center>
 <p align="center">
   <p align="center">
   <a href="mailto:eazash22@gmail.com" target="blank"><img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=Mail.Ru&colorA=302D41&colorB=f7be95" alt="E-Mail" /></a>
